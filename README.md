@@ -11,7 +11,7 @@
 <div size='20px'> Gracias por visitar mi perfil de GitHub!
 </div>
 <br>
-<p> Estudié Administración de Empresas y un técnico en Desarrollo de Software, actualmente curso un bootcamp en Cloud Computing. Tengo experiencia en desarrollo y soporte técnico, y estoy en busca de nuevos desafíos para aplicar y expandir mis habilidades.</p>
+<p>Soy Administradora de Empresas con un título técnico en Desarrollo de Software, y actualmente estoy ampliando mis conocimientos en Cloud Computing a través de un bootcamp. Mi experiencia, aunque breve, ha sido enriquecedora y me ha permitido desarrollar habilidades tanto en desarrollo como en soporte técnico. Estoy especialmente interesada en unirme a equipos de desarrollo, donde pueda aprender de las diversas tecnologías y contribuir con mi dedicación y esfuerzo.</p>
 
 <h2> Además: <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
