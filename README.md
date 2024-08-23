@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+    <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png](https://github.com/cctis/cctis/blob/main/cRISTINA%20PEREZ%20(2).png">
 </p>
 
 <h1> Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
@@ -11,7 +11,7 @@
 <div size='20px'> Mi nombre es Cristina.  Gracias por visitar mi perfil de GitHub!
 </div>
 <br>
-<p> Estudié Administración de Empresas y un técnico en Desarrollo de Software, actualmente curso un bootcamp en Cloud Computing. Tengo experiencia en desarrollo y soporte técnico, y estoy en busca de nuevos desafíos para aplicar y expandir mis habilidades. Puedes contactarme a: cctis67718@gmail.com</p>
+<p> Estudié Administración de Empresas y un técnico en Desarrollo de Software, actualmente curso un bootcamp en Cloud Computing. Tengo experiencia en desarrollo y soporte técnico, y estoy en busca de nuevos desafíos para aplicar y expandir mis habilidades.</p>
 
 <h2> Además: <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
