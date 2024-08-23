@@ -8,7 +8,7 @@
 
 
 
-<div size='20px'> Mi nombre es Cristina.  Gracias por visitar mi perfil de GitHub!
+<div size='20px'> Gracias por visitar mi perfil de GitHub!
 </div>
 <br>
 <p> Estudié Administración de Empresas y un técnico en Desarrollo de Software, actualmente curso un bootcamp en Cloud Computing. Tengo experiencia en desarrollo y soporte técnico, y estoy en busca de nuevos desafíos para aplicar y expandir mis habilidades.</p>
