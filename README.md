@@ -17,7 +17,7 @@
 
 - 🔭 Actualmente sigo siendo Estudiante en Bootcamps.
   
-- 🌱 Sigo aprendiendo Git, Java , GitHub, Sql, NodeJs.
+- 🌱 Sigo aprendiendo Git, Java , Sql, NodeJs.
   
 - 👯 Busco colaborar en diferentes proyectos.
 
@@ -35,6 +35,6 @@
 
 
 <h2> Contactame  </h2>
-<a href = 'www.linkedin.com/in/yaneth-cristina-perez-7a2141272'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'www.linkedin.com/in/yaneth-cristina-perez-7a2141272'> </a> 
 <br>
 
