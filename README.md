@@ -2,13 +2,13 @@
     <img width="200" src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
 </p>
 
-<h1> Hola < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hola! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
 
 
-<div size='20px'> Mi nombre es Cristina. Gracias por visitar mi perfil de GitHub! 
+<div size='20px'> Mi nombre es Cristina.  Gracias por visitar mi perfil de GitHub!, puedes contactarme: cctis67718@gmail.com
 </div>
 
 <h2> Sobre Mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
@@ -34,7 +34,4 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
 
-<h2> Contactame  </h2>
-<a href = 'www.linkedin.com/in/yaneth-cristina-perez-7a2141272'> </a> 
-<br>
 
