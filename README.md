@@ -14,12 +14,10 @@
 <p> Estudié Administración de Empresas y un técnico en Desarrollo de Software, actualmente curso un bootcamp en Cloud Computing. Tengo experiencia en desarrollo y soporte técnico, y estoy en busca de nuevos desafíos para aplicar y expandir mis habilidades. Puedes contactarme a: cctis67718@gmail.com</p>
 </br>
 
-<h2> Sobre Mí <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Además: <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
-- 🔭 Actualmente sigo siendo Estudiante en Bootcamps.
-  
+ 
 - 🌱 Sigo aprendiendo Git, Java , Sql, NodeJs.
   
 - 👯 Busco colaborar en diferentes proyectos.
