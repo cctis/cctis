@@ -35,5 +35,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 <a href=""> <img width ='32px' src ='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'> </a>
 
+<a href=""> <img width ='32px' src ='https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white&labelColor=#DD0031'> </a>
+
 
 
