@@ -17,13 +17,13 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
  
-- 🌱 Sigo aprendiendo Git, Java , Sql, NodeJs.
+- 🌱 Sigo aprendiendo Git, Java , Sql, JavaScript.
   
 - 👯 Busco colaborar en diferentes proyectos.
 
 - 👯 Tambien busco empleo como Desarrolladora Junior. 
   
-- 💬 Preguntame sobre  Java, C#, JavaScript
+- 💬 Preguntame sobre  React, Angular, Spring Boot.
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
